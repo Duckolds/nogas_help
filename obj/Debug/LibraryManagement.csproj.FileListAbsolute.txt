@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.AdminDashboard.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.pdb
